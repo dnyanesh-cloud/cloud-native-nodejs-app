@@ -156,3 +156,4 @@ Health check:
 * DevOps deployment workflow
 
 ---
+<img src="screenshots/flow-daigram.png" width="500">
