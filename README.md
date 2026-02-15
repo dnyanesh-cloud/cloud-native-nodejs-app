@@ -105,9 +105,9 @@ http://EC2-IP:3000/
 6. Create an Auto Scaling Group attached to the ALB.
 7. Access the app using the ALB DNS.
 
-<img src="screenshots/AMI.png" width="300"> <img src="screenshots/template.png" width="300">
-<img src="screenshots/target.png" width="300"><img src="screenshots/ASG.png" width="300">
-<img src="screenshots/LB.png" width="300">
+<img src="screenshots/AMI.png" width="200"> <img src="screenshots/template.png" width="200">
+<img src="screenshots/target.png" width="200"><img src="screenshots/ASG.png" width="200">
+<img src="screenshots/LB.png" width="200">
 
 ---
 
@@ -132,19 +132,15 @@ MONGO_URL=mongodb+srv://user:password@cluster.mongodb.net/mydb
 
 Create user:
 
-```
 <img src="screenshots/browser.png" width="500">
-```
 
 View users:
 
-```
 <img src="screenshots/mongodb.png" width="500">
-```
+
 
 Health check:
 
-```
 <img src="screenshots/target.png" width="500">
 ```
 
