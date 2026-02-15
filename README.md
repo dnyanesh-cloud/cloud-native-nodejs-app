@@ -105,11 +105,11 @@ http://EC2-IP:3000/
 6. Create an Auto Scaling Group attached to the ALB.
 7. Access the app using the ALB DNS.
 
-<img src="screenshots/AMI.png" width="400">
-<img src="screenshots/template.png" width="400">
-<img src="screenshots/target.png" width="400">
-<img src="screenshots/ASG.png" width="400">
-<img src="screenshots/LB.png" width="400">
+<img src="screenshots/AMI.png" width="300">
+<img src="screenshots/template.png" width="300">
+<img src="screenshots/target.png" width="300">
+<img src="screenshots/ASG.png" width="300">
+<img src="screenshots/LB.png" width="300">
 
 ---
 
