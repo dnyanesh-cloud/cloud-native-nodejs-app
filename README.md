@@ -84,13 +84,7 @@ docker ps
 ### Signup Portal
 
 ```
-http://EC2-IP:3000
-```
-
-### Health Check
-
-```
-http://EC2-IP:3000/
+http://LoadBalancer-DNS
 ```
 
 ---
@@ -122,7 +116,7 @@ http://EC2-IP:3000/
 Example:
 
 ```
-MONGO_URL=mongodb+srv://user:password@cluster.mongodb.net/mydb
+MONGO_URL=mongodb+srv://user:<your-password>@<your-cluster-name>.mongodb.net/your-database
 ```
 <img src="screenshots/successed.png" width="400">
 
